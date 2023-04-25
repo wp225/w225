@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeorge1
-- 👀 I’m interested in backend development.
+- 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on something simple
 - 📫 How to reach me watermarksonmyface10@gmail.com.
